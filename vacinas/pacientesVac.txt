@@ -1,0 +1,13 @@
+Nome :aaa
+CPF : 333
+Idade: 12
+Telefone :cel - (11) 111111111111
+Endereço :11111111111111 - df - cei - shsn
+Primeira Dose:OK!
+Segunda Dose :OK!
+-------------------------------------
+
+Total de Pacientes: 1
+Total de pacientes menores de Idade: 1
+Total de pacientes Adultos: 0
+Total de pacientes Idosos: 0Media de pacientes: 0

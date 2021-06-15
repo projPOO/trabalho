@@ -1,0 +1,7 @@
+ControleDeVacinas\Principal.class
+com\mycompany\vacinas\Paciente.class
+com\mycompany\vacinas\ProfissionalDaSaude.class
+com\mycompany\vacinas\Telefone.class
+com\mycompany\vacinas\arquivoTXT.class
+com\mycompany\vacinas\Pessoa.class
+com\mycompany\vacinas\Endereco.class
